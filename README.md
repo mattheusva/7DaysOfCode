@@ -2,10 +2,10 @@
 Desafio Lógica JS - Alura - #7DaysOfCode 
 
 
-    DIA 1 | ✅ Finalizado
+    DIA 1 | ✅ 
     Já no primeiro dia vamos ver como o que parece ser um simples detalhe pode fazer toda a diferença no seu código e trazer o resultado esperado e correto ou, dependendo de como implementarmos o código, o mesmo comando pode trazer um resultado não esperado. Nesse dia, vamos aprender mais sobre o comando if e operações booleanas dentro do JS.
 
-    DIA 2 | ✅ Finalizado
+    DIA 2 | ✅ 
     Não é só de condições e operações booleanas que um código vive, então no segundo dia do desafio de lógica de programação vamos aprender a trabalhar com captura de inputs e como amarzenar essas informações em variáveis para usarmos durante a execução do nosso programa.
 
     DIA 3
