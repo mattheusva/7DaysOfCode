@@ -13,7 +13,7 @@ DIA 3 ✓
 
 Nesse dia vamos juntar tudo o que vimos nos dias anteriores para criarmos uma narrativa dinâmica. E para que essa história só acabe quando a pessoa que está lendo ela quiser, vamos adicionar loops para fazermos uma tarefa repetidas vezes!
 
-DIA 4 
+DIA 4 ✓
 
 Como estamos no tema de jogos e narrativas, que tal criarmos um programa para jogarmos contra o computador? Nosso quarto dia iremos aprender a trabalhar com aleatoriedade para criarmos um jogo.
 
