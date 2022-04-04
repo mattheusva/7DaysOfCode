@@ -15,7 +15,7 @@
 <h2>DIA 5 ✓</h2> 
 <p>Listas estão em todos os lugares e nos ajudam muito a trabalhar um grande volume de informação. É muito importante que você saiba trabalhar com arrays e preparamos um dia especial para isso!</p>
 
-<h2>DIA 6</h2> 
+<h2>DIA 6 ✓</h2> 
 <p>Depois de praticarmos como inserir e manipular itens dentro de uma lista, precisamos entender como e quando remover um item especifico dela.</p>
 
 <h2>DIA 7</h2>
