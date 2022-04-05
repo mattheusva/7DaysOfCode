@@ -18,7 +18,7 @@
 <h2>DIA 6 ✓</h2> 
 <p>Depois de praticarmos como inserir e manipular itens dentro de uma lista, precisamos entender como e quando remover um item especifico dela.</p>
 
-<h2>DIA 7</h2>
+<h2>DIA 7 ✓</h2>
 <p>Até aqui trabalhamos em muitos projetos diferentes praticando vários comandos e interação entre eles dentro do Javascript. Mas ainda não falamos de algo essencial que é a organização do nosso código. No sétimo e ultimo dia do desafio faremos um projeto maior para vermos como a organização ou falta dela pode afetar nossa produção de código e muitas vezes causar erros que normalmente não fariamos.</p>
 <hr>
 <h5 align="center">Link desafio: https://7daysofcode.io/</h5>
